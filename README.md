@@ -1,2 +1,3 @@
 # brightness_ctrl
-small brightness control utility for linux
+quick brightness control utility for linux, it's designed to be invoked by a keyboard shortcut configured in `sxhkd`, or any other alternative. 
+
